@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Usuario/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
+                "C:/Users/Usuario/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include",
+                "C:/Users/Usuario/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/lib/gcc/avr/7.3.0/include",
+                "C:/Users/Usuario/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard",
+                "C:/Users/Usuario/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "F_CPU=16000000L",
+                "ARDUINO=10806",
+                "ARDUINO_AVR_UNO",
+                "ARDUINO_ARCH_AVR"
+            ]
+        }
+    ],
+    "version": 4
+}
